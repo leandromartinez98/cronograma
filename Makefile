@@ -1,2 +1,2 @@
 cronograma : 
-	latexmk -pdf cronograma.tex
+	latexmk -pdf plano.tex
