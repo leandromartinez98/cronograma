@@ -1,2 +1,2 @@
-# cronograma
-modelo de cronograma / IQ
+# Plano de Ensino
+modelo de plano de ensino / IQ
